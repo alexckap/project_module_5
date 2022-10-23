@@ -1,0 +1,32 @@
+{
+  "name": "project_module_5",
+  "version": "1.0.0",
+  "description": "Blogging site about NFTs",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexckap/project_module_5.git"
+  },
+  "keywords": [
+    "Blogging",
+    "site"
+  ],
+  "author": "Alexandra Kaplan & Maciel DeJesus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexckap/project_module_5/issues"
+  },
+  "homepage": "https://github.com/alexckap/project_module_5#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mocha": "^10.1.0",
+    "mongoose": "^6.6.7"
+  }
+}
